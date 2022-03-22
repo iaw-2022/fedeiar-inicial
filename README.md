@@ -6,7 +6,7 @@ La idea general de lo que se quiere implementar es un sitio web de videos de spe
 
 ## Diagrama ER
 
-[diagrama ER - proyecto IA Web drawio](https://user-images.githubusercontent.com/42450883/159365789-0977d475-eaf4-4c2f-926c-985db01f6272.png)
+![diagrama ER - proyecto IA Web](https://user-images.githubusercontent.com/42450883/159401332-9f422fbc-025f-43d8-bc45-4d49fbc58837.jpg)
 
 
 ## Actualizaciones a los datos
