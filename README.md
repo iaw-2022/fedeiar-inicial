@@ -15,7 +15,7 @@ El proyecto Framework PHP - Laravel permitirá:
 - A los usuarios registrados comúnes:
 
 1. Subir videos de speedruns como links de youtube o twitch incrustados sobre un determinado videojuego.
-2. Puntuar otros videos de otros usuarios.
+2. Votar positivo o negativo otros videos de otros usuarios.
 3. Realizar comentarios sobre los distintos videos.
 4. Solicitar a los administradores que agreguen un videojuego o categoría sobre el cual puedan subir videos.
 
