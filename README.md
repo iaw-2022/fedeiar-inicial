@@ -6,7 +6,7 @@ La idea general de lo que se quiere implementar es un sitio web de videos de spe
 
 ## Diagrama ER
 
-![diagrama ER - proyecto IA Web](https://user-images.githubusercontent.com/42450883/160713868-986743c3-2e70-4673-aeb7-2c16a22dbe40.jpg)
+![diagrama ER - proyecto IA Web](https://user-images.githubusercontent.com/42450883/161850154-8690e92e-923d-467a-85c0-1085ecde8742.jpg)
 
 ## Actualizaciones a los datos
 
@@ -15,7 +15,7 @@ El proyecto Framework PHP - Laravel permitirá:
 - A los usuarios registrados comúnes:
 
 1. Subir videos de speedruns como links de youtube o twitch incrustados sobre un determinado videojuego.
-2. Puntuar otros videos de otros usuarios.
+2. Votar positivo o negativo otros videos de otros usuarios.
 3. Realizar comentarios sobre los distintos videos.
 4. Solicitar a los administradores que agreguen un videojuego o categoría sobre el cual puedan subir videos.
 
